@@ -7,8 +7,8 @@
 
 <details>
   <summary>About me</summary>
-  -🍃 I am 22 years old, I'm a junior front-end programmer and I want to start in the web development market. Currently, I am studying JavaScript and PHP.
-  -⚡ In my spare time, I enjoy studying topics related to economics. To relax my mind, I like to exercise, read, and play games.
+  <p>-🍃 I am 22 years old, I'm a junior front-end programmer and I want to start in the web development market. Currently, I am studying JavaScript and PHP.</p>
+  <p>-⚡ In my spare time, I enjoy studying topics related to economics. To relax my mind, I like to exercise, read, and play games.</p>
 </details>
 
 ##
